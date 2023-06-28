@@ -1,0 +1,7 @@
+name: CreateWorld1.0
+version: '${project.version}'
+main: org.example.test.plug.CreateWorld1_0
+api-version: '1.19'
+commands:
+  sed:
+  tpw:
